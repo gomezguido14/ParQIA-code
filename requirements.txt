@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+gspread
+oauth2client
+python-dotenv
+requests

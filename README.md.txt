@@ -1,0 +1,1 @@
+Proyecto ParQIA – Pipeline básico de detección

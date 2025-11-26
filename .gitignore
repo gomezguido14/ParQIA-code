@@ -1,0 +1,33 @@
+# Archivos sensibles
+.env
+*.env
+service_account.json
+*.key
+*.pem
+*.p12
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.env*/
+.venv/
+
+# Logs
+*.log
+
+# Editor/OS
+.DS_Store
+.vscode/
+.idea/
+
+# Node / frontend (por si después integrás algo)
+node_modules/
+dist/
+build/
+video.MOV
+yolov8x.pt
