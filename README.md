@@ -16,6 +16,11 @@ Este repositorio contiene el **prototipo funcional** utilizado para detectar esp
 
 ## 📁 Estructura del proyecto
 
+## 🌐 Live demo (Lovable)
+
+👉 Podés ver el prototipo web en funcionamiento acá:  
+https://parkia-map-finder.lovable.app/
+
 ```
 ParQIA-code/
 │
